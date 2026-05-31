@@ -1,0 +1,5 @@
+---
+title: "What did UCSB agree to after the hunger strike?"
+---
+
+The hunger strike ended after students and administrators signed an agreement responding to El Congreso's demands. The agreement represented a victory because UCSB formally acknowledged several student concerns, including EOP/SAA support, El Centro, Chicano Studies faculty growth, a Ph.D. proposal, recruitment and retention, and community needs. However, the agreement also contained limits. Executive Vice Chancellor Donald Crawford framed the response through academic planning, faculty governance, and budget procedures. This language mattered because it meant that even when UCSB agreed to respond, change would still move through institutional processes controlled by administrators and faculty structures. The agreement ended the fast, but it also created a new struggle over implementation.
