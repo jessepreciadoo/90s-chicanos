@@ -8,7 +8,7 @@ url: "https://jessepreciadoo.github.io"
 baseurl: "/90s-chicanos"
 author: "Jesse Preciado"
 email: "jesspre08@gmail.com"
-telar_theme: "trama" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
+telar_theme: "santa-barbara"
 logo: ""
 telar_language: en
 collection_mode: false
